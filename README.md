@@ -1,6 +1,6 @@
 # Business Application of Analytics - Power BI Dashboard
 
-This project showcases a Power BI dashboard created for the Business Application of Analytics course at La Trobe University. The dashboard provides insights into sales performance, customer segmentation, inventory management, and product categories for OutFitters, a fictional company.
+This project showcases a Power BI dashboard created for OUTFITTERS. The dashboard provides insights into sales performance, customer segmentation, inventory management, and product categories for OutFitters. 
 
 ## Key Features:
 - **Sales Performance Analysis**: Visualization of sales by store, product category, and city.
